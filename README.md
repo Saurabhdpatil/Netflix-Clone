@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://s3-alpha.figma.com/hub/file/936981378/40fd9ce4-a7a2-468d-b87c-1dabb77298e2-cover.png" alt="Netflix Clone Logo" width="200" />
-</p>
+</p> 
 
 # Netflix Clone
 
